@@ -1,0 +1,12 @@
+ Created account "user1" with address "cosmos15ytpjxxdeepst6dhe46xt8he50sswwenufdllm" with mnemonic: "world excess magic enter chase science clap company wrestle approve twin garlic panda coconut police jungle warm sunset warrior lottery bubble sponsor reason bird"
+🙂 Created account "user2" with address "cosmos1nftu558nt28ft7myxr5keyqkujjj4y9uv036du" with mnemonic: "bar ahead shine glimpse obey like arrest erosion clock coconut wet siege evidence unhappy banner jazz elite smoke liar then alarm night velvet sketch"
+🙂 Created account "user3" with address "cosmos16x4yshjztrp9yne4feu4gfknzm8ktq8jttzvlc" with mnemonic: "foil mosquito sugar install language door odor measure spatial symbol moral gorilla upper gather thought life month retire jewel slogan fitness estate beach circle"
+
+
+
+
+🙂 Created account "user1" with address "cosmos1x4lwpdgmccuhd2anmjdcwttnygyk0cxr56jlvg" with mnemonic: "flame open better gasp acoustic eye green mask federal captain neck drill inspire ceiling certain vibrant empty pioneer mosquito lunar often fruit design veteran"
+🙂 Created account "user2" with address "cosmos1vwddycsvggm3h9gvlekqfk9e6k9du3fcn5fca0" with mnemonic: "loop hard sand vendor patrol midnight price giant absurd excess twelve canvas lawsuit plug apology vault decade where source car version mistake mandate innocent"
+🙂 Created account "user3" with address "cosmos1y4eael8qn26vpax9mk2rsg2e3xzfh8ztuc8c2p" with mnemonic: "crush loyal correct basic question desert view rapid pair bunker steel grit hour spider later arrow naive lemon bird explain arena high pizza arena"
+🌍 Running a Cosmos 'blog' app with Tendermint at http://localhost:26657.
+🌍 Running a server at http://localhost:1317 (LCD)
